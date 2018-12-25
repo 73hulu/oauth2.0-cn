@@ -29,4 +29,6 @@
       * [3.1.2.2.  Registration Requirements](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3122-registration-requirements.md)
       * [3.1.2.3.  Dynamic Configuration](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3123-dynamic-configuration.md)
       * [3.1.2.4.  Invalid Endpoint](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3124-invalid-endpoint.md)
+      * [3.1.2.5.  Endpoint Content](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3125-endpoint-content.md)
+  * 3.2.  Token Endpoint
 
