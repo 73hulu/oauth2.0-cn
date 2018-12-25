@@ -4,3 +4,5 @@
 
 某些与安全相关的术语应在\[[RFC4949](https://tools.ietf.org/html/rfc4949)\]中定义的含义中理解。这些条款包括但不限于 "attack", "authentication", "authorization", "certificate", "confidentiality", "credential", "encryption", "identity", "sign","signature", "trust", "validate", 和 "verify".
 
+除非另有说明，否则所有协议参数名称和值都是区分大小写的。
+
