@@ -1,6 +1,5 @@
 # Summary
 
-* [1](README.md)
 * [1.  Introduction](chapter1.md)
   * [1.1.  Roles](chapter1/11-roles.md)
   * [1.2.  Protocol Flow](chapter1/12-protocol-flow.md)
@@ -15,4 +14,11 @@
   * [1.7.  HTTP Redirections](chapter1/17-http-redirections.md)
   * [1.8.  Interoperability](chapter1/18-interoperability.md)
   * [1.9.  Notational Conventions](chapter1/19-notational-conventions.md)
+* [2.  Client Registration](README.md)
+  * [2.1.  Client Types](21-client-types.md)
+  * 2.2.  Client Identifier
+  * [2.3.  Client Authentication](23-client-authentication.md)
+    * 2.3.1.  Client Password
+    * 2.3.2.  Other Authentication Methods
+  * 2.4.  Unregistered Clients
 
