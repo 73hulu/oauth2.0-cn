@@ -25,5 +25,6 @@
   * [3.1.  Authorization Endpoint](3protocol-endpoints/31-authorization-endpoint.md)
     * [3.1.1.  Response Type](3protocol-endpoints/31-authorization-endpoint/311-response-type.md)
     * [3.1.2.  Redirection Endpoint](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint.md)
-      * 3.1.2.1.  Endpoint Request Confidentiality
+      * [3.1.2.1.  Endpoint Request Confidentiality](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3121-endpoint-request-confidentiality.md)
+      * [3.1.2.2.  Registration Requirements](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3122-registration-requirements.md)
 
