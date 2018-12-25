@@ -23,4 +23,5 @@
   * [2.4.  Unregistered Clients](24-unregistered-clients.md)
 * [3、Protocol Endpoints](3protocol-endpoints.md)
   * [3.1.  Authorization Endpoint](3protocol-endpoints/31-authorization-endpoint.md)
+    * [3.1.1.  Response Type](3protocol-endpoints/31-authorization-endpoint/311-response-type.md)
 
