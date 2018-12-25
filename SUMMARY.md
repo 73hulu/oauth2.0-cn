@@ -10,4 +10,5 @@
     * [1.3.3.  Resource Owner Password Credentials](chapter1/13-authorization-grant/133-resource-owner-password-credentials.md)
     * [1.3.4.  Client Credentials](chapter1/13-authorization-grant/134-client-credentials.md)
   * [1.4.  Access Token](chapter1/14-accesstoken.md)
+  * [1.5.  Refresh Token](chapter1/15-refresh-token.md)
 
