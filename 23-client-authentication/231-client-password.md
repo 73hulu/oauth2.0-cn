@@ -18,3 +18,20 @@ REQUIRED。客户的密码。 如果客户端密码是空字符串，则客户�
 
 不建议使用这两个参数在请求体中包含客户端凭据，并且应该仅限于不能直接使用HTTP基本身份验证方案\(或其他基于密码的HTTP身份验证方案\)的客户端。参数只能在请求体中传输，不能包含在请求URI中。
 
+例如，使用body参数刷新访问令牌（第6节）的请求：
+
+```
+POST /token HTTP/1.1
+     Host: server.example.com
+     Content-Type: application/x-www-form-urlencoded
+
+     grant_type=refresh_token&refresh_token=tGzv3JOkF0XG5Qx2TlKWIA
+     &client_id=s6BhdRkqt3&client_secret=7Fjfp0ZBr1KtDRbnfVdmIw
+```
+
+当使用密码认证发送请求时，授权服务器必须使用第1.6节中描述的TLS。
+
+由于此客户端身份验证方法涉及密码，因此授权服务器必须保护使用它的任何端点免受暴力攻击。
+
+
+
