@@ -19,6 +19,6 @@
   * [2.2.  Client Identifier](22-client-identifier.md)
   * [2.3.  Client Authentication](23-client-authentication.md)
     * [2.3.1.  Client Password](23-client-authentication/231-client-password.md)
-    * 2.3.2.  Other Authentication Methods
+    * [2.3.2.  Other Authentication Methods](23-client-authentication/232-other-authentication-methods.md)
   * 2.4.  Unregistered Clients
 
