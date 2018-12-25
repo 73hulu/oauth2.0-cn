@@ -16,7 +16,7 @@
   * [1.9.  Notational Conventions](chapter1/19-notational-conventions.md)
 * [2.  Client Registration](README.md)
   * [2.1.  Client Types](21-client-types.md)
-  * 2.2.  Client Identifier
+  * [2.2.  Client Identifier](22-client-identifier.md)
   * [2.3.  Client Authentication](23-client-authentication.md)
     * 2.3.1.  Client Password
     * 2.3.2.  Other Authentication Methods
