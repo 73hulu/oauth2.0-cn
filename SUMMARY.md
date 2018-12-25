@@ -13,4 +13,6 @@
   * [1.5.  Refresh Token](chapter1/15-refresh-token.md)
   * [1.6.  TLS Version](chapter1/16-tls-version.md)
   * [1.7.  HTTP Redirections](chapter1/17-http-redirections.md)
+  * [1.8.  Interoperability](chapter1/18-interoperability.md)
+  * [1.9.  Notational Conventions](chapter1/19-notational-conventions.md)
 
