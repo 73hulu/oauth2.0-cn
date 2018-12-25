@@ -27,4 +27,6 @@
     * [3.1.2.  Redirection Endpoint](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint.md)
       * [3.1.2.1.  Endpoint Request Confidentiality](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3121-endpoint-request-confidentiality.md)
       * [3.1.2.2.  Registration Requirements](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3122-registration-requirements.md)
+      * [3.1.2.3.  Dynamic Configuration](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3123-dynamic-configuration.md)
+      * [3.1.2.4.  Invalid Endpoint](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3124-invalid-endpoint.md)
 
