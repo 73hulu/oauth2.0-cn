@@ -11,4 +11,6 @@
     * [1.3.4.  Client Credentials](chapter1/13-authorization-grant/134-client-credentials.md)
   * [1.4.  Access Token](chapter1/14-accesstoken.md)
   * [1.5.  Refresh Token](chapter1/15-refresh-token.md)
+  * [1.6.  TLS Version](chapter1/16-tls-version.md)
+  * [1.7.  HTTP Redirections](chapter1/17-http-redirections.md)
 
