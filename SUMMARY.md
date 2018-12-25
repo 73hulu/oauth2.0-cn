@@ -31,4 +31,5 @@
       * [3.1.2.4.  Invalid Endpoint](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3124-invalid-endpoint.md)
       * [3.1.2.5.  Endpoint Content](3protocol-endpoints/31-authorization-endpoint/312-redirection-endpoint/3125-endpoint-content.md)
   * [3.2.  Token Endpoint](3protocol-endpoints/32-token-endpoint.md)
+    * [3.2.1.  Client Authentication](3protocol-endpoints/32-token-endpoint/321-client-authentication.md)
 
