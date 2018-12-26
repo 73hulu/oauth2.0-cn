@@ -46,5 +46,24 @@ OPTIONAL。人类可读的ASCII \[USASCII\]文本，提供附加信息，用于�
 
 error\_uri
 
+OPTIONAL。一个URI，用于标识包含错误信息的人类可读网页，用于向客户端开发人员提供有关错误的其他信息。
+
+“error\_uri”参数的值必须符合URI引用语法，因此不得包含集合％x21 /％x23-5B /％x5D-7E之外的字符。
+
 state
+
+REQUIRED 。如果客户端授权请求中存在“state”参数。 从客户端收到的确切值。
+
+
+
+例如，授权服务器通过发送以下HTTP响应来重定向用户代理：
+
+```
+ HTTP/1.1 302 Found
+   Location: https://client.example.com/cb?error=access_denied&state=xyz
+```
+
+
+
+
 
