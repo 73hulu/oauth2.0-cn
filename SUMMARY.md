@@ -36,5 +36,6 @@
 * [4、 Obtaining Authorization](4-obtaining-authorization.md)
   * [4.1.  Authorization Code Grant](4-obtaining-authorization/41-authorization-code-grant.md)
     * [4.1.1.  Authorization Request](4-obtaining-authorization/41-authorization-code-grant/411-authorization-request.md)
-    * 4.1.2.  Authorization Response
+    * [4.1.2.  Authorization Response](4-obtaining-authorization/41-authorization-code-grant/412-authorization-response.md)
+      * [4.1.2.1.  Error Response](4-obtaining-authorization/41-authorization-code-grant/412-authorization-response/4121-error-response.md)
 
