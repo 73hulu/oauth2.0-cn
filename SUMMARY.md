@@ -35,4 +35,5 @@
   * [3.3.  Access Token Scope](3protocol-endpoints/33-accesstoken-scope.md)
 * [4、 Obtaining Authorization](4-obtaining-authorization.md)
   * [4.1.  Authorization Code Grant](4-obtaining-authorization/41-authorization-code-grant.md)
+    * [4.1.1.  Authorization Request](4-obtaining-authorization/41-authorization-code-grant/411-authorization-request.md)
 
